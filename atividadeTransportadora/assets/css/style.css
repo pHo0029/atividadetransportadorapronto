@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #928888;
+}
+#Inicio{
+    background-image: url(../images/caminhaoBackground.png);
+    height: 80vh;
+}
+h1{
+    background-color: rgb(8, 51, 51);
+    padding: 50px 200px;
+}
